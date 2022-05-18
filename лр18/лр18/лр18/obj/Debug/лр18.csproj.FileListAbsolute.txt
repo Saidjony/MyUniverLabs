@@ -1,0 +1,11 @@
+D:\univertasks\осн.прог\лр18\лр18\лр18\bin\Debug\лр18.exe.config
+D:\univertasks\осн.прог\лр18\лр18\лр18\bin\Debug\лр18.exe
+D:\univertasks\осн.прог\лр18\лр18\лр18\bin\Debug\лр18.pdb
+D:\univertasks\осн.прог\лр18\лр18\лр18\obj\Debug\лр18.csproj.AssemblyReference.cache
+D:\univertasks\осн.прог\лр18\лр18\лр18\obj\Debug\лр18.Form1.resources
+D:\univertasks\осн.прог\лр18\лр18\лр18\obj\Debug\лр18.Properties.Resources.resources
+D:\univertasks\осн.прог\лр18\лр18\лр18\obj\Debug\лр18.csproj.GenerateResource.cache
+D:\univertasks\осн.прог\лр18\лр18\лр18\obj\Debug\лр18.csproj.CoreCompileInputs.cache
+D:\univertasks\осн.прог\лр18\лр18\лр18\obj\Debug\лр18.exe
+D:\univertasks\осн.прог\лр18\лр18\лр18\obj\Debug\лр18.pdb
+D:\univertasks\осн.прог\лр18\лр18\лр18\bin\Debug\test1.mdb

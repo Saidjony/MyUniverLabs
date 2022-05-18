@@ -1,0 +1,10 @@
+D:\univertasks\осн.прог\лр17сем2\лр17шарп\лр17шарп\bin\Debug\лр17шарп.exe.config
+D:\univertasks\осн.прог\лр17сем2\лр17шарп\лр17шарп\bin\Debug\лр17шарп.exe
+D:\univertasks\осн.прог\лр17сем2\лр17шарп\лр17шарп\bin\Debug\лр17шарп.pdb
+D:\univertasks\осн.прог\лр17сем2\лр17шарп\лр17шарп\obj\Debug\лр17шарп.csproj.AssemblyReference.cache
+D:\univertasks\осн.прог\лр17сем2\лр17шарп\лр17шарп\obj\Debug\лр17шарп.Form1.resources
+D:\univertasks\осн.прог\лр17сем2\лр17шарп\лр17шарп\obj\Debug\лр17шарп.Properties.Resources.resources
+D:\univertasks\осн.прог\лр17сем2\лр17шарп\лр17шарп\obj\Debug\лр17шарп.csproj.GenerateResource.cache
+D:\univertasks\осн.прог\лр17сем2\лр17шарп\лр17шарп\obj\Debug\лр17шарп.csproj.CoreCompileInputs.cache
+D:\univertasks\осн.прог\лр17сем2\лр17шарп\лр17шарп\obj\Debug\лр17шарп.exe
+D:\univertasks\осн.прог\лр17сем2\лр17шарп\лр17шарп\obj\Debug\лр17шарп.pdb

@@ -1,0 +1,10 @@
+D:\univertasks\осн.прог\лр16сем2\лр16сем2\лр16сем2\obj\Debug\лр16сем2.csproj.AssemblyReference.cache
+D:\univertasks\осн.прог\лр16сем2\лр16сем2\лр16сем2\obj\Debug\лр16сем2.Form1.resources
+D:\univertasks\осн.прог\лр16сем2\лр16сем2\лр16сем2\obj\Debug\лр16сем2.Properties.Resources.resources
+D:\univertasks\осн.прог\лр16сем2\лр16сем2\лр16сем2\obj\Debug\лр16сем2.csproj.GenerateResource.cache
+D:\univertasks\осн.прог\лр16сем2\лр16сем2\лр16сем2\obj\Debug\лр16сем2.csproj.CoreCompileInputs.cache
+D:\univertasks\осн.прог\лр16сем2\лр16сем2\лр16сем2\bin\Debug\лр16сем2.exe.config
+D:\univertasks\осн.прог\лр16сем2\лр16сем2\лр16сем2\bin\Debug\лр16сем2.exe
+D:\univertasks\осн.прог\лр16сем2\лр16сем2\лр16сем2\bin\Debug\лр16сем2.pdb
+D:\univertasks\осн.прог\лр16сем2\лр16сем2\лр16сем2\obj\Debug\лр16сем2.exe
+D:\univertasks\осн.прог\лр16сем2\лр16сем2\лр16сем2\obj\Debug\лр16сем2.pdb
